@@ -1,0 +1,29 @@
+.head{
+font-size: 20px;
+}
+
+.timing{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: flex-end;
+  background-color: antiquewhite;
+}
+
+.menu{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: antiquewhite;
+  border: 2px solid black;
+}
+.dash{
+  display: flex;
+  /* padding: 50px; */
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
